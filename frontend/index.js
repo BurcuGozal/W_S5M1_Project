@@ -73,6 +73,7 @@ function moduleProject1() {
     }
   }, 1000)
 
+  //hdjdkdf
 
   // 👉 TASK 5 - Build a "Friends" widget
   //  ✨ add your code here
